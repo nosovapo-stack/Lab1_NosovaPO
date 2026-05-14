@@ -1,0 +1,12 @@
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\bin\Debug\Laba8.exe.config
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\bin\Debug\Laba8.exe
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\bin\Debug\Laba8.pdb
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\bin\Debug\log4net.dll
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\bin\Debug\log4net.pdb
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\bin\Debug\log4net.xml
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\obj\Debug\Laba8.csproj.AssemblyReference.cache
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\obj\Debug\Laba8.csproj.CoreCompileInputs.cache
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\obj\Debug\Laba8.csproj.Up2Date
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\obj\Debug\Laba8.exe
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\obj\Debug\Laba8.pdb
+C:\Users\nosov\Документы\Ярославцева 3 курс\Laba8\obj\Debug\Laba8.exe.config
